@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661744498754",
+    "project_id": "mmm-foods-mis-2025-688bc",
+    "storage_bucket": "mmm-foods-mis-2025-688bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661744498754:android:4876a307374646cfcad5db",
+        "android_client_info": {
+          "package_name": "com.example.mis_labs_2_2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFU21Iyf8wlxcjr1iRkrKF-_u8TENJNR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
